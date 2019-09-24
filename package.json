@@ -1,0 +1,32 @@
+{
+  "name": "steam-achievement-stats",
+  "version": "0.0.1",
+  "description": "Derives your rarest achievement (and other stats) from your Steam profile.",
+  "main": "source/main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "./source/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anadian/steam-achievement-stats.git"
+  },
+  "keywords": [
+    "steam",
+    "achievement",
+    "rarity",
+    "rarest",
+    "stats",
+    "free",
+    "libre",
+    "open",
+    "mit"
+  ],
+  "author": "Anadian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anadian/steam-achievement-stats/issues"
+  },
+  "homepage": "https://github.com/Anadian/steam-achievement-stats#readme"
+}
